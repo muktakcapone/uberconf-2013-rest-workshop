@@ -1,0 +1,31 @@
+Package delivery system
+-----------------------
+
+From Consumer side 
+
+http://pds.com/package/myIdentifier
+
+For a company
+
+Packages
+location(source, destination)
+track
+Order
+transport
+
+
+
+Customer -> Sender or Recipient
+
+Billing
+-------
+
+http://pds.com/bills/invoice_id
+
+
+
+
+
+
+
+
